@@ -1,0 +1,14 @@
+{
+  "author": "Lauren Caswell/Jonathan Luna <Jluna15@aol.com>",
+  "name": "Tasks",
+  "description": "A task app, written with node",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "~3.0.0beta4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
